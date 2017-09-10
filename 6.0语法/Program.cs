@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace _6._0语法
 {
+
     class Program
     {
         static void Main(string[] args)
